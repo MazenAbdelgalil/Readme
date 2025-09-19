@@ -36,11 +36,11 @@ Python | Pandas | SQL | Power BI | Docker | n8n | REST | GitHub Actions | Arabic
 
 📫 Connect
 
-LinkedIn
+LinkedIn : www.linkedin.com/in/mazenibrahem1
 
-Website
+Website : https://mazen-abdelgalil.contact/
 
-Email: mazen[at]example[dot]com
+Email: Mazenibrahem61@gmail.com
 
 Note: GitHub stats and stars reflect only public work; much of my client work remains private.
 
